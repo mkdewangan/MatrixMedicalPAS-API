@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# Maven
+target/
+
+#
+.DS_Store
+
 # Log file
 *.log
 
